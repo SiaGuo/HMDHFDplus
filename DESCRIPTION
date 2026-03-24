@@ -18,7 +18,7 @@ License: GPL-2
 LazyLoad: yes
 Encoding: UTF-8
 Depends:
-    R (>= 4.1),
+    R (>= 4.0),
 Collate:
     'age2int.R'
     'HFDutils.R'
